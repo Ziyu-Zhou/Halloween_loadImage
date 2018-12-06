@@ -6,10 +6,7 @@ void setup(){
   image(img,0,0);
   frameRate(100);
 }
-void draw()
-{
-  save("ZIYUZHOU.Halloween.png");
-}
+
 void mouseDragged()
 {
   blendMode(OVERLAY);
