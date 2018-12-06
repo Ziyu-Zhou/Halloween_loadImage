@@ -6,6 +6,7 @@ void setup(){
   image(img,0,0);
   frameRate(100);
 }
+void draw(){}
 
 void mouseDragged()
 {
