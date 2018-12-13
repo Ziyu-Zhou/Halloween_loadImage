@@ -1,3 +1,4 @@
+/*@pjs preload="pum.png";*/
 PImage img;
 
 void setup(){
