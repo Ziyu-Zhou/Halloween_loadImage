@@ -8,7 +8,7 @@ void setup(){
   frameRate(100);
 }
 void draw()
-{
+{}
  
 void mouseDragged()
 {
